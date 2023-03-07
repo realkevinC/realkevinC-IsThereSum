@@ -15,7 +15,7 @@ public class IsThereSum {
                 if(arr[i] + arr[j] == target){
                     return true;
                 }
-            }
+            } 
         }
         return false;
     }
